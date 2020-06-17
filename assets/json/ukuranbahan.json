@@ -1,0 +1,80 @@
+{
+  "bahan" : [
+    {
+      "group_id":[
+        11,
+        12,
+        15,
+        16
+      ],
+      "list_bahan":[
+        "HVS 60gsm",
+        "HVS 70gsm",
+        "HVS 80gsm",
+        "HVS 100gsm",
+        "Book Paper 55gsm",
+        "Book Paper 70gsm",
+        "Book Paper 90gsm",
+        "Art Paper 120gsm",
+        "Art Paper 150gsm",
+        "Art Carton 190gsm",
+        "Art Carton 210gsm",
+        "Art Carton 230gsm",
+        "Art Carton 260gsm",
+        "Karton BW 240gsm",
+        "lainnya"
+      ]
+    },
+
+    {
+      "group_id":[
+        13,
+        14
+      ],
+      "list_bahan":[
+        "Vinyl Frontline China 240gram (Outdoor)",
+        "Vinyl Frontline China 260gram (Outdoor)",
+        "Vinyl Frontline China 280gram (Outdoor)",
+        "Vinyl Frontline China 340gram (Outdoor)",
+        "Vinyl Frontline China 440gram (Outdoor)",
+        "Vinyl Frontline KorChin 440gram (Outdoor)",
+        "Vinyl Frontline Korea 440gram (Outdoor)",
+        "Albatros 150Micron (Indoor)",
+        "lainnya"
+      ]
+    }
+  ],
+  "ukuran" : [
+    {
+      "group_id":[
+        11,
+        12,
+        15,
+        16
+      ],
+      "list_ukuran":[
+        "A3",
+        "A4",
+        "F4",
+        "Letter",
+        "lainnya"
+      ]
+    },
+
+    {
+      "group_id":[
+        13,
+        14
+      ],
+      "list_ukuran":[
+        "1m x 1m",
+        "2m x 1m",
+        "3m x 1m",
+        "4m x 1m",
+        "5m x 1m",
+        "6m x 1m",
+        "lainnya"
+      ]
+    }
+  ]
+}
